@@ -1,0 +1,18 @@
+{
+  "name": "starttemplate",
+  "version": "",
+  "description": "Start HTML Template",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-sass": "^4.0.0"
+  }
+}
